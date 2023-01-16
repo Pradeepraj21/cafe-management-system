@@ -2,14 +2,15 @@
 
 Cafe Management System is a Web Application that has been created to provide a solution for a cafe / food-chain restaurant which operates like McDonald’s and it will enable the person on the counter (server) to accept orders from customer and pass it to the chef so that the chef can prepare the food/beverage, post that the admin can view entire order history and can also search/filter through them. The Admin can manage which employees (servers) are on duty on a given day and view all order history and bills of each and every order. They also can add items to the restaurant menu using the system and can also disable any menu item once it is actually out of stock. Servers only have access to place orders and view bills.
 
-![](website-images/website-HomePage.PNG)
-![](website-images/website-Gallery.PNG)
-![](website-images/website-Login.PNG)
-![](website-images/website-Parking.PNG)
-![](website-images/website-Complaints.PNG)
-![](website-images/website-Notice.PNG)
-![](website-images/website-Visitors.PNG)
-![](website-images/website-Employee.PNG)
+![](website-images/website-Homepage.PNG)
+![](website-images/website-LoginPage.PNG)
+![](website-images/website-EmployeeDashboard.PNG)
+![](website-images/website-manage-order.PNG)
+![](website-images/website-viewbill.PNG)
+![](website-images/website-bill-overview.PNG)
+![](website-images/website-AdminDashboard.PNG)
+![](website-images/website-manage-category.PNG)
+![](website-images/website-manage-employee.PNG)
 
 ## Technologies used in the project
 
